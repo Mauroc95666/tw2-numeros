@@ -10,7 +10,7 @@ Aplicación PHP orientada a objetos que solicita al usuario N elementos y muestr
 
 ## Instalación
 
-1. Colocar esta carpeta en `./html/noo2/` del proyecto que contiene `docker-compose.yml`
+1. Colocar esta carpeta en `./html/noo/` del proyecto que contiene `docker-compose.yml`
 
 2. Asegurar que el volumen en docker-compose.yml monte la carpeta html:
    ```yaml
